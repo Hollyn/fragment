@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.derisse.hollyn.fragments.Fragments.FragmentWithCode"
+    android:background="#f3f300">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_margin="40dp"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello from fragment" />
+
+</FrameLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_fragment_with_xml">AddFragmentWithXml</string>
+    <string name="title_activity_add_fragment_with_java_code">AddFragmentWithJavaCode</string>
+    <string name="title_activity_communication_between2_fragments">CommunicationBetween2Fragments
+    </string>
+    <string name="title_activity_flexible_user_interface">FlexibleUserInterface</string>
+
+    <string-array name="title">
+        <item>Getting Started</item>
+        <item>Using the Material Theme</item>
+        <item>Creating Lists and Cards</item>
+        <item>Defining Shadows and Clipping Views</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Learn how to update your app with material design features</item>
+        <item>Learn how to apply material design styles to your app.</item>
+        <item>Learn how to create lists and cards with a consistent look and feel using system widgets.</item>
+        <item>Learn how to create vector drawables and how to tint drawable resources.</item>
+    </string-array>
+    <string name="title_activity_modular_user_interface">ModularUserInterface</string>
+    <string name="title_activity_description">DescriptionActivity</string>
+    <string name="title_activity_transaction_and_backstack">TransactionAndBackstack</string>
+    <string name="title_activity_list_fragment">ListFragment</string>
+    <string name="title_activity_dialogs">Dialogs</string>
+    <string name="text">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression.</string>
+    <string name="title_activity_slide_tab">SlideTab</string>
+    <string name="title_activity_swipe_tab">SwipeTab</string>
+</resources>
